@@ -1,0 +1,40 @@
+.rows.div {
+  width: 10px;
+  float: left;
+}
+
+.box {
+  height: 15px;
+  width: 15px;
+  background-color: black;
+  display: inline-block;
+  margin-right: 2px;
+}
+
+.color1 {
+  background-color: red;
+}
+
+.color2 {
+  background-color: orange;
+}
+
+.color3 {
+  background-color: yellow;
+} 
+
+.color4 {
+  background-color: green;
+}
+
+.color5 {
+  background-color: blue;
+}
+
+.color6 {
+  background-color: purple;
+}
+
+.new {
+  display: none;
+}
